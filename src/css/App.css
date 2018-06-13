@@ -1,0 +1,127 @@
+:root {
+  background: #222222;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Information {
+  font-size: medium;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Navbar {
+  background: #222222;
+}
+
+body, html {
+  height: 100%;
+}
+
+/* The hero image */
+.stepmania-image {
+  /* The image used */
+  background-image: url("../images/Stepmania.png");
+
+  /* Set a specific height */
+  max-width:100%;
+  max-height:100%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.youtube-icon {
+  /* The image used */
+  background-image: url("../images/Youtube.svg");
+
+  /* Set a specific height */
+  height: 4em;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-repeat: no-repeat;
+  margin-left: 1em;
+  padding-left: 20vw;
+  display: inline-flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+/*SHINY HIGHLIGHTED BUTTON*/
+
+@keyframes sheen {
+  0% {
+    transform: skewY(-45deg) translateX(0);
+  }
+  100% {
+    transform: skewY(-45deg) translateX(12.5em);
+  }
+}
+.wrapper {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.button {
+  padding: 0.75vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #2194E0;
+  font-size: 24px;
+  display: inline-block;
+  border-radius: 0.3em;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+.button:before {
+  content: "";
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 100%;
+  width: 3em;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -4.5em;
+  transform: skewX(-45deg) translateX(0);
+  transition: none;
+}
+.button:hover {
+  background-color: rgba(33, 148, 224, 0.77);
+  color: #fff;
+}
+.button:hover:before {
+  transform: skewX(-45deg) translateX(40.5em);
+  transition: all 0.5s ease-in-out;
+}

@@ -1,0 +1,38 @@
+{
+  "name": "portfolio3",
+  "version": "0.1.0",
+  "homepage": "https://briancai.com",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-carousel": "^3.0.3",
+    "react-dom": "^16.4.0",
+    "react-scripts": "^3.4.1",
+    "react-scroll": "^1.8.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "BROWSER='firefox' react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
