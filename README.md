@@ -11,6 +11,6 @@ It is missing the folder for node_modules, because I think that is a waste of sp
 ## Tutorials and Sources for Portfolio3:
 
 * [Intro to React](https://reactjs.org/tutorial/tutorial.html)
-* [Setting up React on Github](https://github.com/gitname/react-gh-pages)
+* [Setting up React on Github Pages](https://github.com/gitname/react-gh-pages)
 * [React Bootstrap Documentation](https://react-bootstrap.github.io/getting-started/introduction/)
 * [NPM React Carousel Package](https://www.npmjs.com/package/react-bootstrap-carousel)

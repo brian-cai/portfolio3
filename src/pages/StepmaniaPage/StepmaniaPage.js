@@ -53,7 +53,7 @@ class StepmaniaPage extends Component {
 
                         <span>
                             <a className="button" href={process.env.PUBLIC_URL + '/stepmania/EvacuatetheDanceFloorXynn.zip'}
-                               target="_blank"
+                               target="_blank" rel="noopener noreferrer"
                                download={"evacuatethedancefloor.zip"}>
                                 Download
                             </a>
@@ -74,7 +74,7 @@ class StepmaniaPage extends Component {
 
                         <span>
                             <a className="button" href={process.env.PUBLIC_URL + '/stepmania/LoneDigger.zip'}
-                               target="_blank"
+                               target="_blank" rel="noopener noreferrer"
                                download={"lonedigger.zip"}>
                                 Download
                             </a>
@@ -95,7 +95,7 @@ class StepmaniaPage extends Component {
 
                         <span>
                             <a className="button" href={process.env.PUBLIC_URL + '/stepmania/SummertimeSadness_CGMix.zip'}
-                               target="_blank"
+                               target="_blank" rel="noopener noreferrer"
                                download={"summertimesadness.zip"}>
                                 Download
                             </a>
@@ -116,7 +116,7 @@ class StepmaniaPage extends Component {
 
                         <span>
                             <a className="button" href={process.env.PUBLIC_URL + '/stepmania/Connect_Magi_Madoka.zip'}
-                               target="_blank"
+                               target="_blank" rel="noopener noreferrer"
                                download={"connect_anime.zip"}>
                                 Download
                             </a>
@@ -137,7 +137,7 @@ class StepmaniaPage extends Component {
 
                         <span>
                             <a className="button" href={process.env.PUBLIC_URL + '/stepmania/Starboy.zip'}
-                               target="_blank"
+                               target="_blank" rel="noopener noreferrer"
                                download={"starboy.zip"}>
                                 Download
                             </a>

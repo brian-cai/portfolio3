@@ -18,28 +18,15 @@ class NavigationBar extends Component {
                 zIndex: 10000,
                 backgroundColor: "black",
                 marginBottom: "0",
-                position: "fixed", /* Set the navbar to fixed position */
+                position: "fixed",
                 top: 0, /* Position the navbar at the top of the page */
                 width: "100%" /* Full width */
             }}>
-                <Navbar.Header>
-                    <Navbar.Brand>
-                        <Link activeClass="active" to="home" smooth={true} duration={200} style={{color: "#9d9d9d"}}>
-                            Brian Cai
-                        </Link>
-                    </Navbar.Brand>
-                    <Navbar.Toggle />
-                </Navbar.Header>
                 <Navbar.Collapse>
                     <Nav pullRight>
                         <NavItem href="#home">
                             <Link activeClass="active" to="home" smooth={true} duration={200} style={{color: "#9d9d9d"}}>
                                 Home
-                            </Link>
-                        </NavItem>
-                        <NavItem eventKey={1} href="#projects">
-                            <Link activeClass="active" to="projects" smooth={true} duration={200} style={{color: "#9d9d9d"}}>
-                                Projects
                             </Link>
                         </NavItem>
                         <NavItem eventKey={2} href="#fencing">

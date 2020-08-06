@@ -46,10 +46,10 @@ class FencingPage extends Component {
             }}>
 
                 <p>
-                    USFA Match History: <a href={askfredurl} target="_blank"> AskFred </a>
+                    USFA Match History: <a href={askfredurl} target="_blank" rel="noopener noreferrer"> AskFred </a>
                 <p>
                 <p>
-                    GHSFL Match History: <a href={popefencingurl} target="_blank"> Pope HS Archives</a> (You have to go to GHSFL Seasons 9-12 and look at tournaments with Alpharetta in it.)
+                    GHSFL Match History: <a href={popefencingurl} target="_blank" rel="noopener noreferrer"> Pope HS Archives</a> (You have to go to GHSFL Seasons 9-12 and look at tournaments with Alpharetta in it.)
                 </p>
                 </p>
                     Video Clips
