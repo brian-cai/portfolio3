@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio3/static/css/main.6f166d8c.chunk.css",
+    "main.js": "/portfolio3/static/js/main.c1ae9aef.chunk.js",
+    "main.js.map": "/portfolio3/static/js/main.c1ae9aef.chunk.js.map",
+    "runtime-main.js": "/portfolio3/static/js/runtime-main.aa9035ea.js",
+    "runtime-main.js.map": "/portfolio3/static/js/runtime-main.aa9035ea.js.map",
+    "static/css/2.35aa2e18.chunk.css": "/portfolio3/static/css/2.35aa2e18.chunk.css",
+    "static/js/2.2ff10a75.chunk.js": "/portfolio3/static/js/2.2ff10a75.chunk.js",
+    "static/js/2.2ff10a75.chunk.js.map": "/portfolio3/static/js/2.2ff10a75.chunk.js.map",
+    "index.html": "/portfolio3/index.html",
+    "precache-manifest.751816c77c818d91063c0450b5239e6b.js": "/portfolio3/precache-manifest.751816c77c818d91063c0450b5239e6b.js",
+    "service-worker.js": "/portfolio3/service-worker.js",
+    "static/css/2.35aa2e18.chunk.css.map": "/portfolio3/static/css/2.35aa2e18.chunk.css.map",
+    "static/css/main.6f166d8c.chunk.css.map": "/portfolio3/static/css/main.6f166d8c.chunk.css.map",
+    "static/js/2.2ff10a75.chunk.js.LICENSE.txt": "/portfolio3/static/js/2.2ff10a75.chunk.js.LICENSE.txt",
+    "static/media/01Arthur88Remise.mp4": "/portfolio3/static/media/01Arthur88Remise.65b79633.mp4",
+    "static/media/02RiposteBehind.mp4": "/portfolio3/static/media/02RiposteBehind.6e467fa8.mp4",
+    "static/media/03Beat6.mp4": "/portfolio3/static/media/03Beat6.e98c04b2.mp4",
+    "static/media/04AnthonyHoldLine.mp4": "/portfolio3/static/media/04AnthonyHoldLine.92e6dbd0.mp4",
+    "static/media/05KendrickDuckRemise.mp4": "/portfolio3/static/media/05KendrickDuckRemise.d0db410b.mp4",
+    "static/media/06Arthur8Bind.mp4": "/portfolio3/static/media/06Arthur8Bind.c8333c71.mp4",
+    "static/media/07StefanoLate4.mp4": "/portfolio3/static/media/07StefanoLate4.34df13f4.mp4",
+    "static/media/08Kendrick8Dodge.mp4": "/portfolio3/static/media/08Kendrick8Dodge.28bc6153.mp4",
+    "static/media/App.css": "/portfolio3/static/media/Youtube.720de4a8.svg",
+    "static/media/fontawesome-all.min.css": "/portfolio3/static/media/fa-solid-900.b6a14bb8.ttf",
+    "static/media/bootstrap.css": "/portfolio3/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/react-bootstrap-carousel.css": "/portfolio3/static/media/react-bootstrap-carousel.f7448c04.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa9035ea.js",
+    "static/css/2.35aa2e18.chunk.css",
+    "static/js/2.2ff10a75.chunk.js",
+    "static/css/main.6f166d8c.chunk.css",
+    "static/js/main.c1ae9aef.chunk.js"
+  ]
+}
