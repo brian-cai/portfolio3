@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a8bc928.chunk.css",
+    "main.js": "/static/js/main.52667625.chunk.js",
+    "main.js.map": "/static/js/main.52667625.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4b148dc9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4b148dc9.js.map",
+    "static/css/2.151934bf.chunk.css": "/static/css/2.151934bf.chunk.css",
+    "static/js/2.2ff10a75.chunk.js": "/static/js/2.2ff10a75.chunk.js",
+    "static/js/2.2ff10a75.chunk.js.map": "/static/js/2.2ff10a75.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d3771c4e4e860f64ca763fccbfb9faa.js": "/precache-manifest.9d3771c4e4e860f64ca763fccbfb9faa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.151934bf.chunk.css.map": "/static/css/2.151934bf.chunk.css.map",
+    "static/css/main.0a8bc928.chunk.css.map": "/static/css/main.0a8bc928.chunk.css.map",
+    "static/js/2.2ff10a75.chunk.js.LICENSE.txt": "/static/js/2.2ff10a75.chunk.js.LICENSE.txt",
+    "static/media/01Arthur88Remise.mp4": "/static/media/01Arthur88Remise.65b79633.mp4",
+    "static/media/02RiposteBehind.mp4": "/static/media/02RiposteBehind.6e467fa8.mp4",
+    "static/media/03Beat6.mp4": "/static/media/03Beat6.e98c04b2.mp4",
+    "static/media/04AnthonyHoldLine.mp4": "/static/media/04AnthonyHoldLine.92e6dbd0.mp4",
+    "static/media/05KendrickDuckRemise.mp4": "/static/media/05KendrickDuckRemise.d0db410b.mp4",
+    "static/media/06Arthur8Bind.mp4": "/static/media/06Arthur8Bind.c8333c71.mp4",
+    "static/media/07StefanoLate4.mp4": "/static/media/07StefanoLate4.34df13f4.mp4",
+    "static/media/08Kendrick8Dodge.mp4": "/static/media/08Kendrick8Dodge.28bc6153.mp4",
+    "static/media/App.css": "/static/media/Youtube.720de4a8.svg",
+    "static/media/fontawesome-all.min.css": "/static/media/fa-solid-900.b6a14bb8.ttf",
+    "static/media/bootstrap.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/react-bootstrap-carousel.css": "/static/media/react-bootstrap-carousel.f7448c04.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b148dc9.js",
+    "static/css/2.151934bf.chunk.css",
+    "static/js/2.2ff10a75.chunk.js",
+    "static/css/main.0a8bc928.chunk.css",
+    "static/js/main.52667625.chunk.js"
+  ]
+}
