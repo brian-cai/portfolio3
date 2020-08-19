@@ -14,3 +14,9 @@ It is missing the folder for node_modules, because I think that is a waste of sp
 * [Setting up React on Github Pages](https://github.com/gitname/react-gh-pages)
 * [React Bootstrap Documentation](https://react-bootstrap.github.io/getting-started/introduction/)
 * [NPM React Carousel Package](https://www.npmjs.com/package/react-bootstrap-carousel)
+
+
+## Random Notes about Custom Domains
+
+* Creating a Custom Domain was annoying --- `npm run deploy` overwrites the CNAME for github pages which took me a while to figure out.
+* You have to have your package.json know your url, and have your DNS have the github pages ips added.
