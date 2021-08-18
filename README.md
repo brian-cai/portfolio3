@@ -18,5 +18,5 @@ It is missing the folder for node_modules, because I think that is a waste of sp
 
 ## Random Notes about Custom Domains
 
-* Creating a Custom Domain was annoying --- `npm run deploy` overwrites the CNAME for github pages which took me a while to figure out.
+* Creating a Custom Domain was annoying --- `npm run deploy` overwrites the CNAME for github pages which took me a while to figure out. You will have to go to settings and type in the custom url again so github creates/commits/pushes the CNAME file again.
 * You have to have your package.json know your url, and have your DNS have the github pages ips added.
