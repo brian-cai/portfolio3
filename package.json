@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "caniuse-lite": "^1.0.30001251",
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.1",
     "react-bootstrap-carousel": "^3.0.3",
