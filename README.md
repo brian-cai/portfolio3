@@ -6,7 +6,7 @@ It is missing the folder for node_modules, because I think that is a waste of sp
 ## Previous Websites:
 
 * [Portfolio2](https://brian-cai.github.io/portfolio2) - Learning Animations and the Webstorm IDE (Summer 2017)
-* [CS1100 Website](http://brian-cai.github.io/cs1100website) - 1st ever Portfolio, learned bootstrap and html: (Fall 2015)
+* [CS1100 Website](http://brian-cai.github.io/portfolio1) - 1st ever Portfolio, learned bootstrap and html: (Fall 2015)
 
 ## Tutorials and Sources for Portfolio3:
 
